@@ -1,2 +1,4 @@
-const my_name = "Clement Olatunji";
+const details = {
+    "name": "Clement Olatunji"
+}
 let neighboursCar = "Toyota Camry";
